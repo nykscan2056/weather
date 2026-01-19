@@ -3,8 +3,8 @@
 A premium, modern weather application built with Flutter, featuring glassmorphism design and real-time weather effects.
 
 ## 📄 User Documents
-- [Privacy Policy / Gizlilik Politikası](https://nykscan2056.github.io/Weather/privacy-policy.html)
-- [Terms of Service / Kullanım Şartları](https://nykscan2056.github.io/Weather/privacy-policy.html)
+- [Privacy Policy / Gizlilik Politikası](https://nykscan2056.github.io/weather/privacy-policy.html)
+- [Terms of Service / Kullanım Şartları](https://nykscan2056.github.io/weather/privacy-policy.html)
 
 ## 🛠 Features
 - **Modern UI:** Glassmorphism and premium gradients.
@@ -17,3 +17,4 @@ Compliant with GDPR and Google DSA regulations. Users can manage their ad consen
 
 ---
 © 2026 RKA Weather.
+
