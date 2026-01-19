@@ -1,0 +1,3 @@
+# AdMob app-ads.txt
+# Replace the ID below with your own Pub ID from AdMob Settings
+google.com, pub-9600500076548048, DIRECT, f08c47fec0942fa0
